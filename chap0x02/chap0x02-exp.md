@@ -17,14 +17,12 @@
       sudo apt-get install asciinema
    ```
    
-   ![down-asciinema](./img/down-asciinema.jpeg)
 2. 关联asciinema账号
    
    ```
       asciinema auth
    ```
    
-   ![connect-asciinema](./img/connect-asciinema.png)
 3. vimtutor操作录像
    #### Lesson1
 
@@ -138,13 +136,12 @@
 1. 在终端进行asciinema下载时显示失败，问过老师之后发现时自己的ubuntu系统在设置网卡时将NAT设置成了NAT网络，导致无法联网。更改后下载成功。
 
 2. 在学习lesson3.3时，借助'ce'操作修改'usf the ……'时，将光标停在f处,按下ce,结果将f后的空格以及'the'均删去
-   ![error](./img/error.png)
    完成修改时只能利用'i'指令重新加上空格和'the'.猜想原因可能是'ce'操作是删掉光标和光标所在单词的末尾之间的字母，f刚好在末尾,所以误将空格和'the'也删除。（具体原因有待考察555）
 
 ## 参考资料
 
 [第二章实验课件](https://c4pr1c3.gitee.io/linuxsysadmin/chap0x02.exp.md.html#/3/2/'第二章实验课件')
-[Virtualbox虚拟网络实战](https://c4pr1c3.gitee.io/linuxsysadmin/get-networks-done-asap.md.html#/vb-net-conn-graph/'virtualbox虚拟网络实战')
+[Virtualbox虚拟网络实战](https://c4pr1c3.gitee.io/linuxsysadmin/get-networks-done-asap.md.html#/vb-net-conn-graph/'vb虚拟网络实战')
 
 
 
