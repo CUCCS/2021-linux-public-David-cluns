@@ -9,23 +9,41 @@
 ## 三.实验操作录屏
 ### 入门篇
 1. 3.2 systemd-analyze - 3.3 hostnamectl
+
 [![3.2 systemd-analyze - 3.3 hostnamectl](https://asciinema.org/a/404088.svg)](https://asciinema.org/a/404088)
+
 2. 3.4 localectl - 3.5 timedatectl
+
 [![3.4 localectl - 3.5 timedatectl](https://asciinema.org/a/404095.svg)](https://asciinema.org/a/404095)
+
 3. 3.6 loginctl
+
 [![3.6 loginctl](https://asciinema.org/a/404102.svg)](https://asciinema.org/a/404102)
+
 4. 4.1 systemctl list-units - 4.2 systemctl status
+
 [![4.1-4.2](https://asciinema.org/a/404107.svg)](https://asciinema.org/a/404107)
+
 5. 4.3 Unit管理 - 4.4 依赖关系
+
 [![4.3-4.4](https://asciinema.org/a/404121.svg)](https://asciinema.org/a/404121)
+
 6. 5.1-5.4 Unit的配置文件
+
 [![5.1-5.4](https://asciinema.org/a/404134.svg)](https://asciinema.org/a/404134)
+
 7. 6.Target
+
 [![6.Target](https://asciinema.org/a/404317.svg)](https://asciinema.org/a/404317)
+
 8. 7.日志管理
+
 [![7.日志管理](https://asciinema.org/a/404324.svg)](https://asciinema.org/a/404324)
+
 ### 实战篇
+
 [![8.实战篇](https://asciinema.org/a/404331.svg)](https://asciinema.org/a/404331)
+
 
 ## 四.自查清单
 1. 如何添加一个用户并使其具备sudo执行程序的权限？
